@@ -1,2 +1,2 @@
-# proyect_reiandru.githube.io
+# proyect_reiandru.github.io
 cv con html,cssy javascript
